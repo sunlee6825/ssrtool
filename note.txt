@@ -1,2 +1,2 @@
-＃测试SSR节点。。
+＃测试SSR节点
 ssr://MjA3LjI0Ni45Ny4yMzE6MjcxNTphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6cGxhaW46Y1dsNGFXNXJaV3Bw
